@@ -3,8 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikdossantossilva2@gmail.com)
 
 <div>
-  <img alt="Kaik D' Andrade GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaikdandrade&show_icons=true&theme=radical" />
-  <img alt="Kaik D' Andrade Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikdandrade&layout=compact" />
+  <img alt="Kaik D' Andrade GitHub stats" width="525" src="https://github-readme-stats.vercel.app/api?username=kaikdandrade&show_icons=true&theme=radical" />
+  <img alt="Kaik D' Andrade Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikdandrade&layout=compact" />
 </div>
 
 ## Técnologias que eu uso no dia a dia
