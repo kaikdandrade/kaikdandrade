@@ -1,24 +1,17 @@
 ### Olá, seja muito bem vindo ao meu perfil. ❤️
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaik.francisco@gmail.com)
-
-<div>
-  <img alt="Kaik D' Andrade Top Langs" width="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikdandrade&layout=compact" />
-  <img alt="Kaik D' Andrade GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaikdandrade&show_icons=true&theme=radical" />
-</div>
-
-## Técnologias que eu uso no dia a dia
-<div style="display: inline_block;">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-262626?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br />
-
 Sou apaixonado por tecnologia e sempre estou em evolução, aumentando meus conhecimentos e os lapidando com a prática.
 
-## Contatos
-- Gmail: kaik.francisco@gmail.com
-- Tel: (21) 96735-3432
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikdandrade&stats_format=bytes)
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Dandrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dandrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dandrade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dandrade-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dandrade-Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg">
+</div><br />
+
+<div>
+  <a href = "mailto:kaik.francisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
