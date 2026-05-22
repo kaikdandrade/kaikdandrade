@@ -1,9 +1,11 @@
 ### Olá, seja muito bem vindo ao meu perfil. ❤️
-Sou apaixonado por tecnologia e sempre estou em evolução, aumentando meus conhecimentos e os lapidando com a prática.
+<p>
+Desenvolvedor de Software e graduando em Engenharia de Computação. Focado no desenvolvimento de softwares e aplicações web modernas, integrações eficientes com bancos de dados e criação de soluções automatizadas. Busco aplicar conceitos sólidos de engenharia para construir sistemas dinâmicos, performáticos e focados na experiência do usuário. Em meus projetos prezo sempre pela inovação e por entregar um diferencial técnico.
+</p>
 
 <div>
   <a href = "mailto:kaik.francisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaik-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br />
 
 <div>
